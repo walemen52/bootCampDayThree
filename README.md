@@ -9,6 +9,6 @@ The command Line App is a random Chuck Norris joke app which consumes a public A
 # Testing
 To run test for the joke Application, use the command: npm test.
 # Installation
-All the dependencies need to be installed to run the application. Use the command: npm install to install the dependencies.
+All the dependencies need to be installed to run the application. Use the command: "npm install" to install the dependencies.
 # Author
 Olawale Hamzat Animashaun
