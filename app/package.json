@@ -14,5 +14,8 @@
   "preferGlobal": true,
   "bin": {
     "cli": "index.js"
+  },
+  "dependencies": {
+    "yargs": "^8.0.1"
   }
 }
